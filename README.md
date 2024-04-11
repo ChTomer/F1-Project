@@ -25,4 +25,4 @@ So if you’re trying to run my code, make sure to put the `.ipynb` files in a f
 So if I'll be honest, in these files there are a bunch of visuals that I used for my presentation.\
 I'll add later a link to watch the PowerPoint/ Google Slides
 
-
+Thank you
