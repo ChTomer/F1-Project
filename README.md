@@ -3,6 +3,7 @@
 ## Introduction:
 Hi, I’m Tomer, I’m currently learning at **New York City Data Science Academy.**\
 In this project, I’m practicing working with Python, Git and GitHub.
+
 ## Data:
 The F1-data came from here: *https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020* \
 When the last update was on August 2023.
@@ -19,10 +20,12 @@ I used a few different kinds of visual techniques for practice and to visualize 
 
 In case you want to run this code, my file path for the csv files is: `archive/'file_name'`.
 
-So if you’re trying to run my code, make sure to put the `.ipynb` files in a folder that contains your archive folder. (like here)\
+So if you’re trying to run my code, make sure to put the `.ipynb` files in the same folder that contains your archive folder.
 
 ## How does it work?
-So if I'll be honest, in these files there are a bunch of visuals that I used for my presentation.\
-I'll add later a link to watch the PowerPoint/ Google Slides
+I have created three separate files, one for each question in my presentation. 
+Instead of focusing on individual drivers, I have attempted to showcase a story of F1 success by the country.
+These files contain a variety of visual aids that I utilized during my presentation.\
+I will be adding a link to access the PowerPoint or Google Slides presentation at a later time.
 
-Thank you
+Thank you! 
