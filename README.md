@@ -26,6 +26,6 @@ So if you’re trying to run my code, make sure to put the `.ipynb` files in the
 I have created three separate files, one for each question in my presentation. 
 Instead of focusing on individual drivers, I have attempted to showcase a story of F1 success by the country.
 These files contain a variety of visual aids that I utilized during my presentation.\
-I will be adding a link to access the PowerPoint or Google Slides presentation at a later time.
+Here is the link to watch the presentation: https://drive.google.com/file/d/1o3_3EPgU5LrIMGDoZWSp2puTbvg4l0Br/view?usp=drive_link
 
 Thank you! 
