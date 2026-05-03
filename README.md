@@ -42,7 +42,7 @@ Watch the presentation here:
 ## Full Analysis
 
 Read the full write-up here:  
-👉 [F1 Blog Post](My Blog.md)
+👉 [F1 Blog Post](<My Blog.md>)
 
 ---
 
